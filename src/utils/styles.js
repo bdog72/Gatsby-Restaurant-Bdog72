@@ -5,7 +5,7 @@ export const colors = {
   mainYellow2: `#F2AF29`,
   mainGrey: `#474747`,
 }
-export const textSlanted = `font-family:'Caveat', cursive;`
+export const textSlanted = `font-family:'Caveat Brush', cursive;`
 
 export const transDefault = 'transition:all 0.5s ease-in-out'
 export const transFunction = (
